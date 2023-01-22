@@ -1,0 +1,8 @@
+RENCANA KONTEN AZMI
+
+-Administrasi sistem linux
+ *Backup
+ *Mengelola Paket Software
+-Cloud Computing
+-Interview
+-Vlogs
