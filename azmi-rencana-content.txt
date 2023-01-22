@@ -5,6 +5,7 @@ RENCANA KONTEN AZMI
   -Incremental vs Differential Backup
  *Mengelola Paket Software
   -Tipe Backup
+  -APT
  *Mengelola Filesystem
   -Program Backup
 -Cloud Computing
