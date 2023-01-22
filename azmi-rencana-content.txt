@@ -2,8 +2,13 @@ RENCANA KONTEN AZMI
 
 -Administrasi sistem linux
  *Backup
+  -Incremental vs Differential Backup
  *Mengelola Paket Software
+  -Tipe Backup
+  -APT
  *Mengelola Filesystem
+  -Program Backup
 -Cloud Computing
 -Interview
 -Vlogs
+Administrasi Jaringan Linux
