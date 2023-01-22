@@ -3,6 +3,7 @@ RENCANA KONTEN AZMI
 -Administrasi sistem linux
  *Backup
  *Mengelola Paket Software
+ *Mengelola Filesystem
 -Cloud Computing
 -Interview
 -Vlogs
